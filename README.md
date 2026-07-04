@@ -17,7 +17,7 @@ Arduino Uno
 - 7-segment display wiring (common cathode)
 - 2D arrays for digit patterns (lookup table)
 - Functions with parameters
-- while and for loops
+- while and for loops  
 - Serial Monitor output
 ## How to run it
 1. Wire the buzzer to pin 8.
@@ -28,5 +28,5 @@ Arduino Uno
 6. Click Upload.
 ## Author
 Agnes Owusus 2526404815
-After editing, scroll down, type "Update README" as the commit messag"Commit changes". Then go back to the main page of your repository and copy the URL from your 
+Afte Then go back to the main page of your repository and copy the URL from your 
 browser's address bar — you will need it for Linke

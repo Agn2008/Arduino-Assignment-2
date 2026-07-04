@@ -28,5 +28,3 @@ Arduino Uno
 6. Click Upload.
 ## Author
 Agnes Owusus 2526404815
-Afte Then go back to the main page of your repository and copy the URL from your 
-browser's address bar — you will need it for Linke
